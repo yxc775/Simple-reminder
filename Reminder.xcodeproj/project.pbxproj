@@ -44,7 +44,7 @@
 		B6DAE1A6208E9D4A007E7B03 = {
 			isa = PBXGroup;
 			children = (
-				B6DAE1B1208E9D4A007E7B03 /* Final project */,
+				B6DAE1B1208E9D4A007E7B03 /* Finalproject */,
 				B6DAE1B0208E9D4A007E7B03 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,7 +57,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B6DAE1B1208E9D4A007E7B03 /* Final project */ = {
+		B6DAE1B1208E9D4A007E7B03 /* Finalproject */ = {
 			isa = PBXGroup;
 			children = (
 				B6DAE1B2208E9D4A007E7B03 /* AppDelegate.swift */,
@@ -70,7 +70,7 @@
 				B6DAE1B4208E9D4A007E7B03 /* Final_project.xcdatamodeld */,
 				B63A0F8420924937001B2FB8 /* EditViewController.swift */,
 			);
-			path = "Final project";
+			path = Finalproject;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
